@@ -24,10 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/ceoritik/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ceoritik/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/ceoritik/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ceoritik/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/ceoritik/Leetcode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ceoritik/Leetcode/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/ceoritik/Leetcode/tree/master/1406-stone-game-iii) |
 | [1980-find-unique-binary-string](https://github.com/ceoritik/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [3731-find-missing-elements](https://github.com/ceoritik/Leetcode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
