@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ceoritik/Leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/ceoritik/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ceoritik/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/ceoritik/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/ceoritik/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ceoritik/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/ceoritik/Leetcode/tree/master/0486-predict-the-winner) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/ceoritik/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ceoritik/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/ceoritik/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/ceoritik/Leetcode/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/ceoritik/Leetcode/tree/master/1406-stone-game-iii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ceoritik/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
