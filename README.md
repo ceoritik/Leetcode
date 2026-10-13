@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ceoritik/Leetcode/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/ceoritik/Leetcode/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/ceoritik/Leetcode/tree/master/1406-stone-game-iii) |
+| [1929-concatenation-of-array](https://github.com/ceoritik/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/ceoritik/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ceoritik/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ceoritik/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -173,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ceoritik/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/ceoritik/Leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
