@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ceoritik/Leetcode/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/ceoritik/Leetcode/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/ceoritik/Leetcode/tree/master/1406-stone-game-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/ceoritik/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/ceoritik/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/ceoritik/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ceoritik/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ceoritik/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/ceoritik/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ceoritik/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Depth-First Search
 |  |
