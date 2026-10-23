@@ -3,8 +3,7 @@ class Solution {
         int ans = 0;
         int n = nums.length;
         for(int i=0; i<n ; i++){
-            String s = Integer.toString(nums[i]);
-            if(s.length()%2==0){
+            if((nums[i]>9 && nums[i]<100)||(nums[i]>999 && nums[i]<10000)|| nums[i]==100000){ 
                 ans++;
             }
         }
